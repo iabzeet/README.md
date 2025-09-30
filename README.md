@@ -128,7 +128,7 @@ My passion for programming languages and frameworks fuels my continuous learning
 
 ### 📊 Top Languages Used
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iabzeet6&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iabzeet&layout=compact&theme=tokyonight" />
 </p>
 
 
