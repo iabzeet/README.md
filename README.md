@@ -1,4 +1,4 @@
-[![GitHub Banner](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)](https://github.com/NoorMustafa4556)
+[![GitHub Banner](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)](https://github.com/iabzeet)
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+there!+👋+I'm+Noor+Mustafa+" />
@@ -12,17 +12,17 @@
 <img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coder GIF" width="380" height="280">
 
 ### 👨‍🎓 About Me  
-**I'm Noor Mustafa, a dedicated Flutter Developer from Pakistan.**  
+**I'm Abhijeet Singh Panwar, a dedicated Flutter Developer from India.**  
 My passion for programming languages and frameworks fuels my continuous learning journey. I find great satisfaction in translating designs into seamless implementations. Currently, I'm honing my skills as a junior Flutter Developer, driven by a commitment to constant growth in the field.
 
 ---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arslan4546&label=Profile%20views&color=0e75b6&style=flat" alt="NoorMustafa4556" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arslan4546&label=Profile%20views&color=0e75b6&style=flat" alt="iabzeet" /> </p>
 
 - 🔭 I’m currently working on **[Flutter Projects](https://github.com/iabzeet)**
 - 🌱 I’m currently learning **Flutter APIs**
 - 👯 I’m looking to collaborate on **interesting projects**
-- 👨‍💻 My complete portfolio is available at [https://github.com/noormustafa4556](https://github.com/iabzeet)
+- 👨‍💻 My complete portfolio is available at [https://github.com/iabzeet](https://github.com/iabzeet)
 - 💬 Ask me about **Flutter, Dart, and Web Development**
 - 📫 Reach me at **iabzeet@gmail.com**
 - ⚡ Fun fact: **I think I'm funny**
@@ -34,22 +34,22 @@ My passion for programming languages and frameworks fuels my continuous learning
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
-  <a href="https://x.com/NoorMustafa4556" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="NoorMustafa4556" height="30" width="40" />
+  <a href="https://x.com/iabzeet" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iabzeet" height="30" width="40" />
   </a>
-  <a href="https://www.linkedin.com/in/noormustafa4556/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="noormustafa4556" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/iabzeet/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iabzeet" height="30" width="40" />
   </a>
-  <a href="https://www.facebook.com/NoorMustafa4556" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="NoorMustafa4556" height="30" width="40" />
+  <a href="https://www.facebook.com/iabzeet" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="iabzeet" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/noormustafa4556" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="noormustafa4556" height="30" width="40" />
+  <a href="https://instagram.com/iabzeet" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iabzeet" height="30" width="40" />
   </a>
   <a href="https://wa.me/923087655076" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40" />
   </a>
-  <a href="https://www.tiktok.com/@noormustafa4556" target="blank">
+  <a href="https://www.tiktok.com/@iabzeet" target="blank">
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/3046/3046122.png" alt="TikTok" height="30" width="30" />
   </a>
 </p>
@@ -128,7 +128,7 @@ My passion for programming languages and frameworks fuels my continuous learning
 
 ### 📊 Top Languages Used
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoorMustafa4556&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iabzeet6&layout=compact&theme=tokyonight" />
 </p>
 
 
@@ -138,19 +138,19 @@ My passion for programming languages and frameworks fuels my continuous learning
 
 <h3 align="center">GitHub Activity</h3>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NoorMustafa4556&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true" alt="Noor Mustafa's GitHub Activity" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iabzeet&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true" alt="Abhijeet's GitHub Activity" />
 </div>
 
 
 <div align="center">
-  <a href="https://github.com/NoorMustafa4556">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NoorMustafa4556 &theme=transparent" />
+  <a href="https://github.com/iabzeet">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iabzeet &theme=transparent" />
   </a>
-  <a href="https://github.com/NoorMustafa4556">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=NoorMustafa4556 &hide_border=true&card_width=338&theme=transparent" />
+  <a href="https://github.com/iabzeet">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=iabzeet &hide_border=true&card_width=338&theme=transparent" />
   </a>
-  <a href="https://github.com/NoorMustafa4556">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NoorMustafa4556 &theme=transparent" />
+  <a href="https://github.com/iabzeet">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=iabzeet &theme=transparent" />
   </a>
 </div>
 
