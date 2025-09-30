@@ -19,12 +19,12 @@ My passion for programming languages and frameworks fuels my continuous learning
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arslan4546&label=Profile%20views&color=0e75b6&style=flat" alt="NoorMustafa4556" /> </p>
 
-- 🔭 I’m currently working on **[Flutter Projects](https://github.com/NoorMustafa4556)**
+- 🔭 I’m currently working on **[Flutter Projects](https://github.com/iabzeet)**
 - 🌱 I’m currently learning **Flutter APIs**
 - 👯 I’m looking to collaborate on **interesting projects**
-- 👨‍💻 My complete portfolio is available at [https://github.com/noormustafa4556](https://github.com/noormustafa4556)
+- 👨‍💻 My complete portfolio is available at [https://github.com/noormustafa4556](https://github.com/iabzeet)
 - 💬 Ask me about **Flutter, Dart, and Web Development**
-- 📫 Reach me at **noorrmustafa4556@gmail.com**
+- 📫 Reach me at **iabzeet@gmail.com**
 - ⚡ Fun fact: **I think I'm funny**
 
 
